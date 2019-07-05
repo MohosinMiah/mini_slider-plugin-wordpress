@@ -4,7 +4,7 @@ Plugin Name: mini_sliderlider
 Plugin URI:
 Description:
 Version: 1.0
-Author: LWHH
+Author: Md.Mohosin Miah
 Author URI: https://hasin.me
 License: GPLv2 or later
 Text Domain: mini_slider
